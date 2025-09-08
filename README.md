@@ -8,15 +8,16 @@ A financial company was compromised, and they are looking for a security analyst
 The initial analysis performed by the company's team showed that many systems were compromised. Also, alerts indicate the use of well known malicious tools in the network. As a SOC analyst, you are assigned to investigate the incident using QRadar SIEM and reconstruct the events carried out by the attacker.
  
 ## Dataset:
-- Sysmon - swift on security configuration
-- Powershell logging
-- Windows Eventlog
-- Suricata IDS
-- Zeek logs (conn, HTTP)
+- Sysmon - swift on security configuration.
+- Powershell logging.
+- Windows Eventlog.
+- Suricata IDS.
+- Zeek logs (conn, HTTP).
 
 ## tools:
-- IBM Qradar
-- MITTR ATTACK framework
+- IBM Qradar.
+- MITTR ATTACK framework.
+- Github
 
 ## Walkthrough 
 - How many log sources available?
