@@ -19,7 +19,7 @@ The initial analysis performed by the company's team showed that many systems we
 - MITTR ATTACK framework.
 - Github
 
-## Walkthrough 
+## Case Analysis 
 - How many log sources available?
 - What is the IDS software used to monitor the network?
 
